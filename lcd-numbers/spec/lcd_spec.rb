@@ -1,4 +1,4 @@
-require "lcd"
+require_relative "../lib/lcd"
 
 describe Lcd do
   it "can display 0" do
